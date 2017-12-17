@@ -30,6 +30,8 @@
 						expected worst - case space complexity is O(1).
 */
 
+#include "Solution.h"
+
 int solution(int N) {
 	// write your code in C++14 (g++ 6.2.0)
 	int currentGap, finalGap;
